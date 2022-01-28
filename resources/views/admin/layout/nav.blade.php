@@ -40,10 +40,7 @@
 													<a href="#" class="text-center user pb-0 font-weight-bold">{{Auth::user()->name}}</a>
 													<p class="text-center user-semi-title">Quản lí</p>
 												</div>
-												<a class="dropdown-item d-flex" href="{{route('self_profile')}}">
-													<i class="feather feather-user mr-3 fs-16 my-auto"></i>
-													<div class="mt-1">Trang cá nhân</div>
-												</a>
+												
 												
 												
 												<a class="dropdown-item d-flex" a href="{{route('logout')}}">

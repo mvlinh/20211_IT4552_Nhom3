@@ -30,7 +30,6 @@
 								?>
 						</div>
 						<button type="submit" name="sm_login" class="btn btn-primary">Đăng nhập</button>
-						<span>Nếu bạn chưa có tài khoản? <a href="{{route('register')}}" style="color: red;">đăng kí</a></span>
 
 					</form>
             </div>
